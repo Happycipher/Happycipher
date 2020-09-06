@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 - 🔭 I’m currently working on a project related to virtual assistant
 - 🌱 I’m currently learning Pytorch and Deep learning
