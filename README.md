@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Deep Learning 
-- 🌱 I’m currently learning Pytorch
+- 🔭 I’m currently working on a project related to virtual assistant
+- 🌱 I’m currently learning Pytorch and Deep learning
 - 👯 I’m looking to collaborate on Prediction Models and web development  
 - 🤔 I’m looking for help with Flutter
 - 💬 Ask me about Anything
