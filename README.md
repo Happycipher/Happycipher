@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Happycipher/Happycipher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Deep Learning 
 - 🌱 I’m currently learning Pytorch
 - 👯 I’m looking to collaborate on Prediction Models and web development  
@@ -15,4 +10,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: pip install Happiness
     No module named Happiness (┬┬﹏┬┬)
 
--->
+
+<!--
+**Happycipher/Happycipher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
